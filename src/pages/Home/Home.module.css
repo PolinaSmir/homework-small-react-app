@@ -1,0 +1,16 @@
+.header {
+  color: rgb(0, 60, 67);
+  background-color: rgb(119, 176, 170);
+}
+.wrapper {
+  background-color: rgb(19, 93, 102);
+  border-radius: 5px;
+  margin: 3%;
+  padding: 10px;
+  color: rgb(227, 254, 247);
+}
+.wrapper p {
+  margin: 10px;
+  /* font-weight: bold; */
+  font-size: large;
+}
